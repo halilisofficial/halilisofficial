@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning app development in unity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me halilisofficial@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilisofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 halilisofficial/halilisofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
