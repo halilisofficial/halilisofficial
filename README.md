@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Halil İs
-- 👀 I’m interested in AI, ML, Data Science
-- 🌱 I’m currently learning app development in unity 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full-Stack web development.
+- 🌱 I’m currently learning React, Node.js, NOSQL
 - 📫 How to reach me halilisofficial@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halilisofficial)](https://github.com/halilisofficial/github-readme-stats)
 
 <!---
 
